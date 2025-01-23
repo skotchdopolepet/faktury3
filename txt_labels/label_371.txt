@@ -1,0 +1,4 @@
+Serial No.: 2583289
+date: 19-10-2022
+Sales Tax: 4950.0
+Net Tax Inclusive Value: 32450.0

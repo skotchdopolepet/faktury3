@@ -1,0 +1,4 @@
+Serial No.: 2559206
+date: 20-01-2020
+Sales Tax: 7560.0
+Net Tax Inclusive Value: 49560.0

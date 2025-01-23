@@ -1,0 +1,4 @@
+Serial No.: 2608861
+date: 15-06-2021
+Sales Tax: 9810.0
+Net Tax Inclusive Value: 64310.0

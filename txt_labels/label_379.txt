@@ -1,0 +1,4 @@
+Serial No.: 2681659
+date: 16-07-2021
+Sales Tax: 6030.0
+Net Tax Inclusive Value: 39530.0

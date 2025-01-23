@@ -1,0 +1,4 @@
+Serial No.: 2593696
+date: 06-12-2022
+Sales Tax: 6210.0
+Net Tax Inclusive Value: 40710.0

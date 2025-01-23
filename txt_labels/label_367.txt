@@ -1,0 +1,4 @@
+Serial No.: 2545792
+date: 05-03-2024
+Sales Tax: 6660.0
+Net Tax Inclusive Value: 43660.0

@@ -1,0 +1,4 @@
+Serial No.: 2409495
+date: 15-11-2021
+Sales Tax: 7560.0
+Net Tax Inclusive Value: 49560.0

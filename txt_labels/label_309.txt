@@ -1,0 +1,4 @@
+Serial No.: 2678643
+date: 13-05-2024
+Sales Tax: 9900.0
+Net Tax Inclusive Value: 64900.0

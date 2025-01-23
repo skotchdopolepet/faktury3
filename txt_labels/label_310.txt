@@ -1,0 +1,4 @@
+Serial No.: 2680489
+date: 22-02-2021
+Sales Tax: 522.0
+Net Tax Inclusive Value: 3422.0

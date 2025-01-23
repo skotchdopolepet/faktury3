@@ -1,0 +1,4 @@
+Serial No.: 2486332
+date: 14-07-2023
+Sales Tax: 3690.0
+Net Tax Inclusive Value: 24190.0

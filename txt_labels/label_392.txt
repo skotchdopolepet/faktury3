@@ -1,0 +1,4 @@
+Serial No.: 2746322
+date: 19-09-2020
+Sales Tax: 5310.0
+Net Tax Inclusive Value: 34810.0

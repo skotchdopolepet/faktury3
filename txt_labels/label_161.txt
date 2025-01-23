@@ -1,0 +1,4 @@
+Serial No.: 2587422
+date: 21-05-2024
+Sales Tax: 14400.0
+Net Tax Inclusive Value: 94400.0

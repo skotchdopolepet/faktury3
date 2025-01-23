@@ -1,0 +1,4 @@
+Serial No.: 2687508
+date: 18-01-2019
+Sales Tax: 9900.0
+Net Tax Inclusive Value: 64900.0

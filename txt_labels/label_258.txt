@@ -1,0 +1,4 @@
+Serial No.: 2580157
+date: 28-05-2021
+Sales Tax: 8280.0
+Net Tax Inclusive Value: 54280.0

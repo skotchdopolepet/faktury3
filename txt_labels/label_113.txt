@@ -1,0 +1,4 @@
+Serial No.: 2428833
+date: 25-01-2020
+Sales Tax: 9000.0
+Net Tax Inclusive Value: 59000.0

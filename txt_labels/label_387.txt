@@ -1,0 +1,4 @@
+Serial No.: 2605523
+date: 09-02-2019
+Sales Tax: 6120.0
+Net Tax Inclusive Value: 40120.0

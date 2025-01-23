@@ -1,0 +1,4 @@
+Serial No.: 2653314
+date: 25-02-2019
+Sales Tax: 1962.0
+Net Tax Inclusive Value: 12862.0

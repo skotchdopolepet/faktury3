@@ -1,0 +1,4 @@
+Serial No.: 2511331
+date: 18-03-2023
+Sales Tax: 5580.0
+Net Tax Inclusive Value: 36580.0

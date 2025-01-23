@@ -1,0 +1,4 @@
+Serial No.: 2692830
+date: 06-05-2021
+Sales Tax: 6660.0
+Net Tax Inclusive Value: 43660.0

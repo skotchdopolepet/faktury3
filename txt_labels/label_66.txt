@@ -1,0 +1,4 @@
+Serial No.: 2491257
+date: 11-11-2023
+Sales Tax: 7470.0
+Net Tax Inclusive Value: 48970.0

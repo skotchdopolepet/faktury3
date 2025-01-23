@@ -1,0 +1,4 @@
+Serial No.: 2422019
+date: 26-11-2023
+Sales Tax: 10170.0
+Net Tax Inclusive Value: 66670.0

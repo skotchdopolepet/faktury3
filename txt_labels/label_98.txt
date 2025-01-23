@@ -1,0 +1,4 @@
+Serial No.: 2481548
+date: 11-06-2021
+Sales Tax: 8010.0
+Net Tax Inclusive Value: 52510.0

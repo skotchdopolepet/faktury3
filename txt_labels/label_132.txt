@@ -1,0 +1,4 @@
+Serial No.: 2641946
+date: 18-07-2020
+Sales Tax: 1836.0
+Net Tax Inclusive Value: 12036.0

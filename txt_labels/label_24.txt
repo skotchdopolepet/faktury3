@@ -1,0 +1,4 @@
+Serial No.: 2500720
+date: 30-12-2021
+Sales Tax: 8190.0
+Net Tax Inclusive Value: 53690.0

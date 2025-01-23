@@ -1,0 +1,4 @@
+Serial No.: 2698711
+date: 25-02-2022
+Sales Tax: 1782.0
+Net Tax Inclusive Value: 11682.0

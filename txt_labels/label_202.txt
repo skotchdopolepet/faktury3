@@ -1,0 +1,4 @@
+Serial No.: 2531374
+date: 03-09-2024
+Sales Tax: 4590.0
+Net Tax Inclusive Value: 30090.0

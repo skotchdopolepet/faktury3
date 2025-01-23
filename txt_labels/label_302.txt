@@ -1,0 +1,4 @@
+Serial No.: 2422017
+date: 07-05-2024
+Sales Tax: 9000.0
+Net Tax Inclusive Value: 59000.0

@@ -1,0 +1,4 @@
+Serial No: None
+Date: 29.05.2023
+Sales Tax: 5570.0
+Net Tax Inclusive Value: 37170.0

@@ -1,0 +1,4 @@
+Serial No.: 2786993
+date: 18-02-2021
+Sales Tax: 11700.0
+Net Tax Inclusive Value: 76700.0

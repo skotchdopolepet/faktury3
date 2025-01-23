@@ -1,0 +1,4 @@
+Serial No.: 2580061
+date: 03-09-2019
+Sales Tax: 3600.0
+Net Tax Inclusive Value: 23600.0

@@ -1,0 +1,4 @@
+Serial No.: 2581422
+date: 03-11-2020
+Sales Tax: 4770.0
+Net Tax Inclusive Value: 31270.0

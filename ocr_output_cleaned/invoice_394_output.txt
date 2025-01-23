@@ -1,0 +1,4 @@
+Serial No: 2704110
+Date: 96-07-2024
+Sales Tax: 3600.0
+Net Tax Inclusive Value: 253600.0

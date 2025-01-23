@@ -1,0 +1,4 @@
+Serial No.: 2478189
+date: 17-09-2024
+Sales Tax: 9540.0
+Net Tax Inclusive Value: 62540.0

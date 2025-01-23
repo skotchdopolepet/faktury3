@@ -1,0 +1,4 @@
+Serial No.: 2519778
+date: 27-10-2019
+Sales Tax: 7290.0
+Net Tax Inclusive Value: 47790.0

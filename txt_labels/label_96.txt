@@ -1,0 +1,4 @@
+Serial No.: 2507818
+date: 07-08-2021
+Sales Tax: 11880.0
+Net Tax Inclusive Value: 77880.0

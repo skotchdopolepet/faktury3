@@ -1,0 +1,4 @@
+Serial No.: 2736375
+date: 13-11-2021
+Sales Tax: 6120.0
+Net Tax Inclusive Value: 40120.0

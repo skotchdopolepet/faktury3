@@ -1,0 +1,4 @@
+Serial No: 271
+Date: 29.08.2020
+Sales Tax: 4140.0
+Net Tax Inclusive Value: 271400

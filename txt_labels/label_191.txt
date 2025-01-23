@@ -1,0 +1,4 @@
+Serial No.: 2453127
+date: 25-06-2021
+Sales Tax: 7290.0
+Net Tax Inclusive Value: 47790.0

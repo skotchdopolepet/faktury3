@@ -1,0 +1,4 @@
+Serial No.: 2660096
+date: 10-09-2021
+Sales Tax: 9270.0
+Net Tax Inclusive Value: 60770.0

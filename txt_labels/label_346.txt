@@ -1,0 +1,4 @@
+Serial No.: 2623506
+date: 21-11-2024
+Sales Tax: 8190.0
+Net Tax Inclusive Value: 53690.0

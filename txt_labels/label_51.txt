@@ -1,0 +1,4 @@
+Serial No.: 2552511
+date: 09-05-2024
+Sales Tax: 12240.0
+Net Tax Inclusive Value: 80240.0

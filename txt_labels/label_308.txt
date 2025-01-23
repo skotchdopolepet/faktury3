@@ -1,0 +1,4 @@
+Serial No.: 2510445
+date: 29-01-2021
+Sales Tax: 11610.0
+Net Tax Inclusive Value: 76110.0

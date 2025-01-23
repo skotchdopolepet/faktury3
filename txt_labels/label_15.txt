@@ -1,0 +1,4 @@
+Serial No.: 2575523
+date: 08-08-2020
+Sales Tax: 10530.0
+Net Tax Inclusive Value: 69030.0

@@ -1,0 +1,4 @@
+Serial No.: 2720536
+date: 28-07-2019
+Sales Tax: 5490.0
+Net Tax Inclusive Value: 35990.0

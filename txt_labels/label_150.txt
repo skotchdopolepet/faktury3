@@ -1,0 +1,4 @@
+Serial No.: 2758566
+date: 06-04-2021
+Sales Tax: 9630.0
+Net Tax Inclusive Value: 63130.0

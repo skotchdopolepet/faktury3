@@ -1,0 +1,4 @@
+Serial No: None
+Date: None
+Sales Tax: 5310.0
+Net Tax Inclusive Value: 34510.0

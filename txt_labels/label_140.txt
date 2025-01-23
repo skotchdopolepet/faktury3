@@ -1,0 +1,4 @@
+Serial No.: 2576081
+date: 16-06-2024
+Sales Tax: 26100.0
+Net Tax Inclusive Value: 171100.0

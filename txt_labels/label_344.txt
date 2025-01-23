@@ -1,0 +1,4 @@
+Serial No.: 2778164
+date: 13-10-2019
+Sales Tax: 918.0
+Net Tax Inclusive Value: 6018.0

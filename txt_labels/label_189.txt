@@ -1,0 +1,4 @@
+Serial No.: 2716215
+date: 17-09-2019
+Sales Tax: 27720.0
+Net Tax Inclusive Value: 181720.0

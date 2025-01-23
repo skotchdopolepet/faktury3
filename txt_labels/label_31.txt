@@ -1,0 +1,4 @@
+Serial No.: 2763739
+date: 05-06-2020
+Sales Tax: 8100.0
+Net Tax Inclusive Value: 53100.0

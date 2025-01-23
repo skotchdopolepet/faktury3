@@ -1,0 +1,4 @@
+Serial No.: 2552339
+date: 28-07-2020
+Sales Tax: 2916.0
+Net Tax Inclusive Value: 19116.0

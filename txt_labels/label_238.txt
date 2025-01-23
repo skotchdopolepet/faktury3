@@ -1,0 +1,4 @@
+Serial No.: 2570532
+date: 30-01-2023
+Sales Tax: 14940.0
+Net Tax Inclusive Value: 97940.0

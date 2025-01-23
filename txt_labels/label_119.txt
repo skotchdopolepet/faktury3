@@ -1,0 +1,4 @@
+Serial No.: 2674739
+date: 20-03-2022
+Sales Tax: 7920.0
+Net Tax Inclusive Value: 51920.0

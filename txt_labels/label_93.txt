@@ -1,0 +1,4 @@
+Serial No.: 2733637
+date: 23-08-2021
+Sales Tax: 10170.0
+Net Tax Inclusive Value: 66670.0

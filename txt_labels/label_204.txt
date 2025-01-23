@@ -1,0 +1,4 @@
+Serial No.: 2710909
+date: 16-11-2021
+Sales Tax: 6120.0
+Net Tax Inclusive Value: 40120.0

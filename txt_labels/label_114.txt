@@ -1,0 +1,4 @@
+Serial No.: 2438299
+date: 21-04-2022
+Sales Tax: 2934.0
+Net Tax Inclusive Value: 19234.0

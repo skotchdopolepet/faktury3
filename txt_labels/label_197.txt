@@ -1,0 +1,4 @@
+Serial No.: 2739107
+date: 11-04-2022
+Sales Tax: 8280.0
+Net Tax Inclusive Value: 54280.0

@@ -1,0 +1,4 @@
+Serial No.: 2689056
+date: 18-04-2019
+Sales Tax: 4320.0
+Net Tax Inclusive Value: 28320.0

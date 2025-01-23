@@ -1,0 +1,4 @@
+Serial No.: 2513672
+date: 28-05-2020
+Sales Tax: 38160.0
+Net Tax Inclusive Value: 250160.0

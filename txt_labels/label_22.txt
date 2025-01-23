@@ -1,0 +1,4 @@
+Serial No.: 2464628
+date: 30-08-2021
+Sales Tax: 522.0
+Net Tax Inclusive Value: 3422.0

@@ -1,0 +1,4 @@
+Serial No.: 2709571
+date: 01-12-2019
+Sales Tax: 6390.0
+Net Tax Inclusive Value: 41890.0

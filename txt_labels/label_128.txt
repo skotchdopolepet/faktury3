@@ -1,0 +1,4 @@
+Serial No.: 2755671
+date: 02-09-2022
+Sales Tax: 1980.0
+Net Tax Inclusive Value: 12980.0

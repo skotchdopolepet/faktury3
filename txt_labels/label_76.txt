@@ -1,0 +1,4 @@
+Serial No.: 2549907
+date: 29-07-2023
+Sales Tax: 389.0
+Net Tax Inclusive Value: 2478.0

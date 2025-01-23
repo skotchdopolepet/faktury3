@@ -1,0 +1,4 @@
+Serial No.: 2657097
+date: 23-02-2020
+Sales Tax: 1123.2
+Net Tax Inclusive Value: 7363.2

@@ -1,0 +1,4 @@
+Serial No.: 2498895
+date: 19-07-2020
+Sales Tax: 11790.0
+Net Tax Inclusive Value: 77290.0

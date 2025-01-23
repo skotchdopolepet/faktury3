@@ -1,0 +1,4 @@
+Serial No.: 2613726
+date: 04-10-2020
+Sales Tax: 8640.0
+Net Tax Inclusive Value: 56640.0

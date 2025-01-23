@@ -1,0 +1,4 @@
+Serial No.: 2477414
+date: 07-04-2023
+Sales Tax: 1152.0
+Net Tax Inclusive Value: 7552.0

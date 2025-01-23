@@ -1,0 +1,4 @@
+Serial No.: 2412362
+date: 03-08-2024
+Sales Tax: 5040.0
+Net Tax Inclusive Value: 33040.0

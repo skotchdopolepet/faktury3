@@ -1,0 +1,4 @@
+Serial No.: 2740178
+date: 12-04-2024
+Sales Tax: 7830.0
+Net Tax Inclusive Value: 51330.0

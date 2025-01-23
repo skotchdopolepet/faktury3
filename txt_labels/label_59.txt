@@ -1,0 +1,4 @@
+Serial No.: 2648296
+date: 27-03-2019
+Sales Tax: 44100.0
+Net Tax Inclusive Value: 289100.0

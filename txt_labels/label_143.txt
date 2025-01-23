@@ -1,0 +1,4 @@
+Serial No.: 2796356
+date: 25-03-2023
+Sales Tax: 7200.0
+Net Tax Inclusive Value: 47200.0

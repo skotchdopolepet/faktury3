@@ -1,0 +1,4 @@
+Serial No.: 2441812
+date: 23-10-2021
+Sales Tax: 11610.0
+Net Tax Inclusive Value: 76110.0

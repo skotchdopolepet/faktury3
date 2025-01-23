@@ -1,0 +1,4 @@
+Serial No.: 2498326
+date: 17-08-2021
+Sales Tax: 6390.0
+Net Tax Inclusive Value: 41890.0

@@ -1,0 +1,4 @@
+Serial No.: 2599675
+date: 09-11-2024
+Sales Tax: 3366.0
+Net Tax Inclusive Value: 22066.0

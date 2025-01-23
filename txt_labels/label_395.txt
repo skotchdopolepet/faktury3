@@ -1,0 +1,4 @@
+Serial No.: 2430139
+date: 29-09-2023
+Sales Tax: 4410.0
+Net Tax Inclusive Value: 28910.0

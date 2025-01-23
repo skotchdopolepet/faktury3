@@ -1,0 +1,4 @@
+Serial No.: 2492092
+date: 27-12-2020
+Sales Tax: 15840.0
+Net Tax Inclusive Value: 103840.0

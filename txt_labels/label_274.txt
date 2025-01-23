@@ -1,0 +1,4 @@
+Serial No.: 2526870
+date: 03-01-2020
+Sales Tax: 7650.0
+Net Tax Inclusive Value: 50150.0

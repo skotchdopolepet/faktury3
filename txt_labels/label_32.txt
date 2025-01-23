@@ -1,0 +1,4 @@
+Serial No.: 2722819
+date: 19-03-2021
+Sales Tax: 7650.0
+Net Tax Inclusive Value: 50150.0

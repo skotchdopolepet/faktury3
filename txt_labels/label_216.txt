@@ -1,0 +1,4 @@
+Serial No.: 2569153
+date: 01-04-2019
+Sales Tax: 10440.0
+Net Tax Inclusive Value: 68440.0

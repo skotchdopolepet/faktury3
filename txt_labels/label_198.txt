@@ -1,0 +1,4 @@
+Serial No.: 2758813
+date: 14-06-2024
+Sales Tax: 3114.0
+Net Tax Inclusive Value: 20414.0

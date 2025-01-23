@@ -1,0 +1,4 @@
+Serial No.: 2540316
+date: 10-08-2022
+Sales Tax: 8910.0
+Net Tax Inclusive Value: 58410.0

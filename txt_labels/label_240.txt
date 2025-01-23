@@ -1,0 +1,4 @@
+Serial No.: 2783069
+date: 05-05-2019
+Sales Tax: 5310.0
+Net Tax Inclusive Value: 34810.0

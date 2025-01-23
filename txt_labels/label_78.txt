@@ -1,0 +1,4 @@
+Serial No.: 2739581
+date: 30-11-2023
+Sales Tax: 11880.0
+Net Tax Inclusive Value: 77880.0

@@ -1,0 +1,4 @@
+Serial No.: 2505736
+date: 24-12-2018
+Sales Tax: 10170.0
+Net Tax Inclusive Value: 66670.0

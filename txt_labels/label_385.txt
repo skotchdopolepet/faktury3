@@ -1,0 +1,4 @@
+Serial No.: 2743370
+date: 10-10-2024
+Sales Tax: 5310.0
+Net Tax Inclusive Value: 34810.0

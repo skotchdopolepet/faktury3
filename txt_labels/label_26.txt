@@ -1,0 +1,4 @@
+Serial No.: 2660995
+date: 07-09-2023
+Sales Tax: 6330.0
+Net Tax Inclusive Value: 45340.0

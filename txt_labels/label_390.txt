@@ -1,0 +1,4 @@
+Serial No.: 2768176
+date: 18-06-2023
+Sales Tax: 6120.0
+Net Tax Inclusive Value: 40120.0

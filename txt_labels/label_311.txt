@@ -1,0 +1,4 @@
+Serial No.: 2586734
+date: 16-12-2019
+Sales Tax: 648.0
+Net Tax Inclusive Value: 1416.0

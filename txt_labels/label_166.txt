@@ -1,0 +1,4 @@
+Serial No.: 2630648
+date: 11-01-2024
+Sales Tax: 9900.0
+Net Tax Inclusive Value: 64900.0

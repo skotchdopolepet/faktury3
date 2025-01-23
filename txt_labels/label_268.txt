@@ -1,0 +1,4 @@
+Serial No.: 2792795
+date: 07-01-2019
+Sales Tax: 18720.0
+Net Tax Inclusive Value: 122720.0

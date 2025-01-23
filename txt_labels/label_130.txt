@@ -1,0 +1,4 @@
+Serial No.: 2515831
+date: 19-08-2020
+Sales Tax: 3042.0
+Net Tax Inclusive Value: 19942.0

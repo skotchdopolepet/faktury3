@@ -1,0 +1,4 @@
+Serial No.: 2770147
+date: 21-04-2019
+Sales Tax: 9900.0
+Net Tax Inclusive Value: 64900.0

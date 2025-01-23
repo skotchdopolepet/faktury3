@@ -1,0 +1,4 @@
+Serial No.: 2751246
+date: 11-02-2022
+Sales Tax: 8640.0
+Net Tax Inclusive Value: 56640.0

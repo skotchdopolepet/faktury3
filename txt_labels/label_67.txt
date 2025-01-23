@@ -1,0 +1,4 @@
+Serial No.: 2478141
+date: 21-04-2019
+Sales Tax: 5850.0
+Net Tax Inclusive Value: 38350.0

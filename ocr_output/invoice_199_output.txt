@@ -1,0 +1,8 @@
+@ CONSTANT TRADING
+
+50 [SALES TAX INVOrcE] 12-201
+
+Sellers of wholesale goods, packaging items, consumer products, industrial
+tools, retail products, and safety equipment.
+
+Satew ave 490.0 Net Tax Inclusive Value: 5990.0

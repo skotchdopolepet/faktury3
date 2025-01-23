@@ -1,0 +1,4 @@
+Serial No.: 2477363
+date: 02-06-2019
+Sales Tax: 1026.0
+Net Tax Inclusive Value: 6726.0

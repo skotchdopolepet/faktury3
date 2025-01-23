@@ -1,0 +1,4 @@
+Serial No.: 2707403
+date: 30-03-2019
+Sales Tax: 10710.0
+Net Tax Inclusive Value: 70210.0

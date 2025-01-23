@@ -1,0 +1,4 @@
+Serial No.: 2546343
+date: 31-10-2022
+Sales Tax: 10080.0
+Net Tax Inclusive Value: 66080.0

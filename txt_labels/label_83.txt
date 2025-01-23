@@ -1,0 +1,4 @@
+Serial No.: 2586067
+date: 25-06-2020
+Sales Tax: 171.0
+Net Tax Inclusive Value: 1121.0

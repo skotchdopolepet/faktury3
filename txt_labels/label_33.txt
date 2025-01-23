@@ -1,0 +1,4 @@
+Serial No.: 2433750
+date: 02-07-2019
+Sales Tax: 4050.0
+Net Tax Inclusive Value: 26550.0

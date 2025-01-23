@@ -1,0 +1,4 @@
+Serial No.: 2635923
+date: 15-03-2020
+Sales Tax: 7020.0
+Net Tax Inclusive Value: 46020.0

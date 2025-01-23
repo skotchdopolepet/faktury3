@@ -1,0 +1,4 @@
+Serial No.: 2678243
+date: 18-08-2021
+Sales Tax: 45000.0
+Net Tax Inclusive Value: 295000.0

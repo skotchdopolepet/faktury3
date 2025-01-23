@@ -1,0 +1,4 @@
+Serial No.: 2687042
+date: 30-03-2023
+Sales Tax: 6930.0
+Net Tax Inclusive Value: 45430.0

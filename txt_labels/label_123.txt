@@ -1,0 +1,4 @@
+Serial No.: 2722204
+date: 09-05-2021
+Sales Tax: 3078.0
+Net Tax Inclusive Value: 20178.0

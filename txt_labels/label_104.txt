@@ -1,0 +1,4 @@
+Serial No.: 2483205
+date: 21-07-2023
+Sales Tax: 11970.0
+Net Tax Inclusive Value: 78470.0

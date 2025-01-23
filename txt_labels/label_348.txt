@@ -1,0 +1,4 @@
+Serial No.: 2581007
+date: 10-02-2019
+Sales Tax: 8730.0
+Net Tax Inclusive Value: 57230.0

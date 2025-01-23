@@ -1,0 +1,4 @@
+Serial No.: 2581360
+date: 10-01-2019
+Sales Tax: 9000.0
+Net Tax Inclusive Value: 59000.0

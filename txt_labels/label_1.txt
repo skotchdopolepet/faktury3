@@ -1,0 +1,4 @@
+Serial No.: 2568788
+date: 18-12-2020
+Sales Tax: 5490.0
+Net Tax Inclusive Value: 35990.0

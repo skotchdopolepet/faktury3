@@ -1,0 +1,4 @@
+Serial No.: 2708276
+date: 24-06-2020
+Sales Tax: 33300.0
+Net Tax Inclusive Value: 218300.0

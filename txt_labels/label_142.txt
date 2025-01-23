@@ -1,0 +1,4 @@
+Serial No.: 2704221
+date: 13-09-2020
+Sales Tax: 45900.0
+Net Tax Inclusive Value: 300900.0

@@ -1,0 +1,4 @@
+Serial No.: 2709055
+date: 23-03-2023
+Sales Tax: 216000.0
+Net Tax Inclusive Value: 1416000.0

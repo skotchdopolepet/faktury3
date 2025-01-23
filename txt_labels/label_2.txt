@@ -1,0 +1,4 @@
+Serial No.: 2744904
+date: 29-04-2020
+Sales Tax: 4140.0
+Net Tax Inclusive Value: 27140.0

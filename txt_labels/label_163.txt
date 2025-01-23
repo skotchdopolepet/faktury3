@@ -1,0 +1,4 @@
+Serial No.: 2666913
+date: 08-02-2019
+Sales Tax: 12150.0
+Net Tax Inclusive Value: 79650.0

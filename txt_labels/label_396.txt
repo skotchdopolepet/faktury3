@@ -1,0 +1,4 @@
+Serial No.: 2777348
+date: 17-09-2023
+Sales Tax: 594.0
+Net Tax Inclusive Value: 3894.0

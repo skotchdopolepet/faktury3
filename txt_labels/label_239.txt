@@ -1,0 +1,4 @@
+Serial No.: 2553800
+date: 23-05-2019
+Sales Tax: 12510.0
+Net Tax Inclusive Value: 82010.0

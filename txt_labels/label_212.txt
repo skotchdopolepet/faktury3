@@ -1,0 +1,4 @@
+Serial No.: 2681067
+date: 12-11-2022
+Sales Tax: 69300.0
+Net Tax Inclusive Value: 454300.0

@@ -1,0 +1,4 @@
+Serial No.: 2591431
+date: 17-03-2024
+Sales Tax: 6300.0
+Net Tax Inclusive Value: 41300.0

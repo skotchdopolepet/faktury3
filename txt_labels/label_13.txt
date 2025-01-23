@@ -1,0 +1,4 @@
+Serial No.: 2703499
+date: 18-03-2021
+Sales Tax: 6560.0
+Net Tax Inclusive Value: 43660.0

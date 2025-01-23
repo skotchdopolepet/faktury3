@@ -1,0 +1,4 @@
+Serial No.: 2656295
+date: 25-09-2023
+Sales Tax: 8010.0
+Net Tax Inclusive Value: 52510.0

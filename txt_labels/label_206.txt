@@ -1,0 +1,4 @@
+Serial No.: 2518763
+date: 16-03-2021
+Sales Tax: 936.0
+Net Tax Inclusive Value: 6136.0
