@@ -23,6 +23,12 @@ Essentially, we have a few separate scripts that each tackle a piece of this wor
 
 ---
 
+## Data Source
+
+This project uses invoice image data sourced from [Roboflow Universe: Invoice Management Dataset](https://universe.roboflow.com/cvip-workspace/invoice-management). Be sure to check their platform for dataset details and licensing information.
+
+---
+
 ## What’s Inside Each Script?
 
 ### 1) **ocr.py**
@@ -97,11 +103,11 @@ Essentially, we have a few separate scripts that each tackle a piece of this wor
    - Create an `images/` folder with invoice images named `invoice_1.jpg`, `invoice_2.jpg`, etc.
    - Make sure you have a folder named `ocr_output/`. (The scripts automatically create it if it doesn’t exist, but best to confirm.)
 
-4. **Run **``
+4. **Run `ocr.py`**
 
    - This reads every `invoice_*.jpg` file in `images/`, applies Tesseract, and writes the result to `ocr_output/invoice_*_output.txt`.
 
-5. **Run **``** or **``
+5. **Run `parse_ocr.py` or `regex.py`**
 
    - `parse_ocr.py` is simpler: it cleans and extracts fields, then saves them to `ocr_output_cleaned/`.
    - `regex.py` is more advanced: it looks for matching label files in a `txt_labels/` folder, compares results, and outputs CSV metrics.
